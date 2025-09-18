@@ -1,0 +1,3 @@
+def is_perfect_square(number: int) -> bool:
+    root = int(number**0.5)
+    return number == root * root

@@ -1,0 +1,2 @@
+def floor_division(numerator: int, denominator: int) -> int:
+    return numerator // denominator

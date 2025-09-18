@@ -1,0 +1,2 @@
+def mid_point_of_line_segment(point1: tuple[float, float, float], point2: tuple[float, float, float]) -> tuple[float, float, float]:
+    return ((point1[0] + point2[0]) / 2, (point1[1] + point2[1]) / 2, (point1[2] + point2[2]) / 2)
